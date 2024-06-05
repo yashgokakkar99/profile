@@ -81,9 +81,5 @@
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/github/followers/yashgokakkar99.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/yashgokakkar99"></img>
-</div>
 
